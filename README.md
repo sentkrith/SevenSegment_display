@@ -56,7 +56,6 @@ TestBench:
        reg[3:0]bcd_tb;
        wire[6:0]seg_t;
        SEVENSEG dut(.bcd(bcd_tb),.seg(seg_t));
-       
        initial
            begin
                bcd_tb = 4'd0;
