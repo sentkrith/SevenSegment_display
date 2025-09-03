@@ -81,4 +81,5 @@ Output waveform:
 ![WhatsApp Image 2025-09-03 at 10 19 32_d571f62a](https://github.com/user-attachments/assets/b3c2d5dd-d055-4b6c-8228-69f4b3d14edc)
 
 Conclusion:
+
 The designed Seven Segment display using Verilog HDL was successfully simulated and verified using a testbench in Vivado 2022.1, demonstrating correct output for each BCD input as per the aim of the experiment. The output waveform confirms that the display accurately lights up the segments corresponding to decimal values 0–9, validating the functionality.
