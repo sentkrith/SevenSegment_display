@@ -81,7 +81,7 @@ TestBench:
       endmodule
 
 Output waveform:
-![WhatsApp Image 2025-09-03 at 10 19 32_a71bcf5c](https://github.com/user-attachments/assets/e7bfd72d-f0e3-4bdf-abed-3e70d5aec868)
+
 
 ![WhatsApp Image 2025-09-03 at 10 19 32_d571f62a](https://github.com/user-attachments/assets/b3c2d5dd-d055-4b6c-8228-69f4b3d14edc)
 
