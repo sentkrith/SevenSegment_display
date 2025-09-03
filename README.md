@@ -24,27 +24,27 @@ Input/Output Signal Diagram:
 ![WhatsApp Image 2025-09-03 at 10 19 32_a71bcf5c](https://github.com/user-attachments/assets/e7bfd72d-f0e3-4bdf-abed-3e70d5aec868)
 
 RTL Code:
-module SEVENSEG(bcd,seg);
-    input[3:0]bcd;
-    output reg[6:0]seg;
-    always @ (bcd)
-    begin
-        case(bcd)
-        4'd0 : seg = 7'b0111111;
-        4'd1 : seg = 7'b0000110;
-        4'd2 : seg = 7'b1011011;
-        4'd3 : seg = 7'b1001111;
-        4'd4 : seg = 7'b1100110;
-        4'd5 : seg = 7'b1101101;
-        4'd6 : seg = 7'b1111101;
-        4'd7 : seg = 7'b00001111;
-        4'd8 : seg = 7'b1111111;
-        4'd9 : seg = 7'b1101111;
-        default : seg = 7'b0000000;
-        endcase
-     end
-        
-        
+    module SEVENSEG(bcd,seg);
+        input[3:0]bcd;
+        output reg[6:0]seg;
+        always @ (bcd)
+        begin
+            case(bcd)
+            4'd0 : seg = 7'b0111111;
+            4'd1 : seg = 7'b0000110;
+            4'd2 : seg = 7'b1011011;
+            4'd3 : seg = 7'b1001111;
+            4'd4 : seg = 7'b1100110;
+            4'd5 : seg = 7'b1101101;
+            4'd6 : seg = 7'b1111101;
+            4'd7 : seg = 7'b00001111;
+            4'd8 : seg = 7'b1111111;
+            4'd9 : seg = 7'b1101111;
+            default : seg = 7'b0000000;
+            endcase
+         end
+            
+            
     
 
 endmodule
