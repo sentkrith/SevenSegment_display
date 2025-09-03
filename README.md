@@ -21,6 +21,8 @@ Save and Document Results Save your project by clicking File → Save Project. T
 Close the Simulation Once done, by going to Simulation → "Close Simulation
 
 Input/Output Signal Diagram:
+
+
 <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/01c96bc9-69d3-4988-8b32-8743b39818c7" />
 
 
