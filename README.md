@@ -24,6 +24,7 @@ Input/Output Signal Diagram:
 ![WhatsApp Image 2025-09-03 at 10 19 32_a71bcf5c](https://github.com/user-attachments/assets/e7bfd72d-f0e3-4bdf-abed-3e70d5aec868)
 
 RTL Code:
+   
     module SEVENSEG(bcd,seg);
         input[3:0]bcd;
         output reg[6:0]seg;
