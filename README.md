@@ -44,7 +44,7 @@ RTL Code:
             default : seg = 7'b0000000;
             endcase
          end
-   endmodule
+     endmodule
 
 
 TestBench:
