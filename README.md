@@ -21,7 +21,8 @@ Save and Document Results Save your project by clicking File → Save Project. T
 Close the Simulation Once done, by going to Simulation → "Close Simulation
 
 Input/Output Signal Diagram:
-![WhatsApp Image 2025-09-03 at 10 19 32_a71bcf5c](https://github.com/user-attachments/assets/e7bfd72d-f0e3-4bdf-abed-3e70d5aec868)
+<img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/01c96bc9-69d3-4988-8b32-8743b39818c7" />
+
 
 RTL Code:
    
@@ -78,6 +79,8 @@ TestBench:
       endmodule
 
 Output waveform:
+![WhatsApp Image 2025-09-03 at 10 19 32_a71bcf5c](https://github.com/user-attachments/assets/e7bfd72d-f0e3-4bdf-abed-3e70d5aec868)
+
 ![WhatsApp Image 2025-09-03 at 10 19 32_d571f62a](https://github.com/user-attachments/assets/b3c2d5dd-d055-4b6c-8228-69f4b3d14edc)
 
 Conclusion:
