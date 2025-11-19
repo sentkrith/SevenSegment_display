@@ -1,4 +1,4 @@
-Exp-No: 02 - Write and simulate seven segment display using Verilog HDL and verify with testbench
+# Exp-No: 02 - Write and simulate seven segment display using Verilog HDL and verify with testbench
 Aim:
 
   To design and simulate a Seven Segment using Verilog HDL and verify its functionality through a testbench using the Vivado 2023.1 simulation environment.
